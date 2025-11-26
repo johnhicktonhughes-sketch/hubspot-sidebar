@@ -1,0 +1,10 @@
+{
+  "name": "hubspot-sidebar",
+  "version": "1.0.0",
+  "description": "Example Node.js serverless API for Vercel deployment.",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  }
+}
