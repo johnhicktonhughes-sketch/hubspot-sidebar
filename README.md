@@ -1,0 +1,2 @@
+# hubspot-sidebar
+Hubspot Sidebar
